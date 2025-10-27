@@ -1,6 +1,5 @@
-# ATRI_ChatUI
 ![](favicon.ico)
-A UI for chatting with ATRI.
+# ATRI_ChatUI
 1. 精简化旧UI
 2. 更新UI
 3. 接入模型
